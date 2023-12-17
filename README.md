@@ -1,9 +1,7 @@
 ### Hi there 👋
-I'm a C++ developer and synbio enthusiast. Right now, I'm working on [CadBerry](https://github.com/CamelCaseCam/CadBerry), an IDE for synthetic biology. If this sounds interesting to you, here's how you can learn more:
-* [Join the Discord server](https://discord.gg/AkyH4YsK)
-* [Check out my devlogs](https://camelcasecam.medium.com/)
-* [Follow me on twitter](https://twitter.com/CamelCaseCam1)
+I'm a C++ developer and synbio enthusiast. In the past, I've worked on [CadBerry](https://github.com/CamelCaseCam/CadBerry), an IDE and programming language for synthetic biology. I've also dabbled in AI, smartwatch app development, web development with React, and bioinformatics. 
 
+I'm in-between projects right now, but working on the side on a chrome extension for filtering spam from search results. If this or anything else you've seen interests you, feel free to email me at [cameron.kroll@gmail.com](mailto:cameron.kroll@gmail.com)
 <!--
 **CamelCaseCam/CamelCaseCam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
